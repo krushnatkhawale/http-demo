@@ -9,6 +9,6 @@ public class FirstController {
 
     @GetMapping({"greeting","/"})
     public String greeting(){
-        return "Hello world from Spring boot!";
+        return "Hello world from Spring boot latest!";
     }
 }
